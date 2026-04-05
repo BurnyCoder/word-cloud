@@ -1,3 +1,12 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Local scratch inputs and generated files that are not part of the repo
+2.txt
+output*.txt
+text*.txt
+output_wordcloud*.svg
+replace.py
+replace_effective_links.py
+replace_super.py
